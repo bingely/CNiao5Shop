@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.app.Application;
 import android.content.Context;

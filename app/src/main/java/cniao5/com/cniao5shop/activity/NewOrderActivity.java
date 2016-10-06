@@ -1,9 +1,11 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import cniao5.com.cniao5shop.R;
 
 public class NewOrderActivity extends AppCompatActivity {
 

@@ -10,8 +10,8 @@ import android.view.ViewGroup;
 
 import com.lidroid.xutils.ViewUtils;
 
-import cniao5.com.cniao5shop.CniaoApplication;
-import cniao5.com.cniao5shop.LoginActivity;
+import cniao5.com.cniao5shop.activity.CniaoApplication;
+import cniao5.com.cniao5shop.activity.LoginActivity;
 import cniao5.com.cniao5shop.bean.User;
 
 

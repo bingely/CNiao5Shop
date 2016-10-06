@@ -1,6 +1,5 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
-import android.app.Activity;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.os.Bundle;
@@ -23,6 +22,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.adapter.WareOrderAdapter;
 import cniao5.com.cniao5shop.adapter.layoutmanager.FullyLinearLayoutManager;
 import cniao5.com.cniao5shop.bean.Charge;
@@ -258,7 +258,7 @@ public class CreateOrderActivity extends BaseActivity  implements View.OnClickLi
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         //支付页面返回处理
         if (requestCode == Contants.REQUEST_CODE_PAYMENT) {
-            if (resultCode == Activity.RESULT_OK) {
+            if (resultCode == RESULT_OK) {
                 String result = data.getExtras().getString("pay_result");
 
                 if (result.equals("success"))

@@ -16,7 +16,7 @@ import com.lidroid.xutils.view.annotation.event.OnClick;
 
 import java.util.List;
 
-import cniao5.com.cniao5shop.CreateOrderActivity;
+import cniao5.com.cniao5shop.activity.CreateOrderActivity;
 import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.adapter.CartAdapter;
 import cniao5.com.cniao5shop.adapter.decoration.DividerItemDecoration;

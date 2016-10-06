@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -13,6 +13,7 @@ import com.squareup.okhttp.Response;
 import java.util.HashMap;
 import java.util.Map;
 
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.bean.User;
 import cniao5.com.cniao5shop.http.OkHttpHelper;
 import cniao5.com.cniao5shop.http.SpotsCallBack;

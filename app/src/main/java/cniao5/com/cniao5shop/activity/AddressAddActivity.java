@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.content.res.AssetManager;
 import android.os.Bundle;
@@ -20,6 +20,7 @@ import java.util.Map;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.city.XmlParserHandler;
 import cniao5.com.cniao5shop.city.model.CityModel;
 import cniao5.com.cniao5shop.city.model.DistrictModel;

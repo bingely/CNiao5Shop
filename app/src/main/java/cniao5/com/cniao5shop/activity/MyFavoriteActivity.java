@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -15,6 +15,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.adapter.BaseAdapter;
 import cniao5.com.cniao5shop.adapter.FavoriteAdatper;
 import cniao5.com.cniao5shop.adapter.decoration.CardViewtemDecortion;

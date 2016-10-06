@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-import cniao5.com.cniao5shop.CniaoApplication;
+import cniao5.com.cniao5shop.activity.CniaoApplication;
 
 
 public class OkHttpHelper {

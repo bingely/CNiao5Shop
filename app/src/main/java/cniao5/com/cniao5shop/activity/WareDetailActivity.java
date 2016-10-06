@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -21,6 +21,7 @@ import java.util.Map;
 
 import cn.sharesdk.framework.ShareSDK;
 import cn.sharesdk.onekeyshare.OnekeyShare;
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.bean.Favorites;
 import cniao5.com.cniao5shop.bean.User;
 import cniao5.com.cniao5shop.bean.Wares;

@@ -14,12 +14,12 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.squareup.picasso.Picasso;
 
-import cniao5.com.cniao5shop.AddressListActivity;
-import cniao5.com.cniao5shop.CniaoApplication;
-import cniao5.com.cniao5shop.Contants;
-import cniao5.com.cniao5shop.LoginActivity;
-import cniao5.com.cniao5shop.MyFavoriteActivity;
-import cniao5.com.cniao5shop.MyOrderActivity;
+import cniao5.com.cniao5shop.activity.AddressListActivity;
+import cniao5.com.cniao5shop.activity.CniaoApplication;
+import cniao5.com.cniao5shop.activity.Contants;
+import cniao5.com.cniao5shop.activity.LoginActivity;
+import cniao5.com.cniao5shop.activity.MyFavoriteActivity;
+import cniao5.com.cniao5shop.activity.MyOrderActivity;
 import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.bean.User;
 import de.hdodenhof.circleimageview.CircleImageView;

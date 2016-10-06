@@ -19,9 +19,9 @@ import com.squareup.okhttp.Response;
 
 import java.util.List;
 
-import cniao5.com.cniao5shop.Contants;
+import cniao5.com.cniao5shop.activity.Contants;
 import cniao5.com.cniao5shop.R;
-import cniao5.com.cniao5shop.WareListActivity;
+import cniao5.com.cniao5shop.activity.WareListActivity;
 import cniao5.com.cniao5shop.adapter.HomeCatgoryAdapter;
 import cniao5.com.cniao5shop.adapter.decoration.CardViewtemDecortion;
 import cniao5.com.cniao5shop.bean.Banner;

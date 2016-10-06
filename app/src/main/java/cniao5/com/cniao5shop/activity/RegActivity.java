@@ -1,6 +1,5 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.telephony.TelephonyManager;
@@ -22,6 +21,7 @@ import java.util.regex.Pattern;
 import cn.smssdk.EventHandler;
 import cn.smssdk.SMSSDK;
 import cn.smssdk.utils.SMSLog;
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.utils.ManifestUtil;
 import cniao5.com.cniao5shop.utils.ToastUtils;
 import cniao5.com.cniao5shop.widget.CNiaoToolBar;
@@ -264,7 +264,7 @@ public class RegActivity extends BaseActivity {
     }
 
     private String getMCC() {
-        TelephonyManager tm = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
+        TelephonyManager tm = (TelephonyManager) getSystemService(TELEPHONY_SERVICE);
         // 返回当前手机注册的网络运营商所在国家的MCC+MNC. 如果没注册到网络就为空.
         String networkOperator = tm.getNetworkOperator();
         if (!TextUtils.isEmpty(networkOperator)) {

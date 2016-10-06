@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

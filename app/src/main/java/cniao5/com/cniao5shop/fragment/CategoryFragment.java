@@ -21,9 +21,9 @@ import com.squareup.okhttp.Response;
 
 import java.util.List;
 
-import cniao5.com.cniao5shop.Contants;
+import cniao5.com.cniao5shop.activity.Contants;
 import cniao5.com.cniao5shop.R;
-import cniao5.com.cniao5shop.WareDetailActivity;
+import cniao5.com.cniao5shop.activity.WareDetailActivity;
 import cniao5.com.cniao5shop.adapter.BaseAdapter;
 import cniao5.com.cniao5shop.adapter.CategoryAdapter;
 import cniao5.com.cniao5shop.adapter.WaresAdapter;

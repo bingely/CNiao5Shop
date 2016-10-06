@@ -6,8 +6,8 @@ import android.content.Intent;
 import com.squareup.okhttp.Request;
 import com.squareup.okhttp.Response;
 
-import cniao5.com.cniao5shop.CniaoApplication;
-import cniao5.com.cniao5shop.LoginActivity;
+import cniao5.com.cniao5shop.activity.CniaoApplication;
+import cniao5.com.cniao5shop.activity.LoginActivity;
 import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.utils.ToastUtils;
 

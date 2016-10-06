@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -21,6 +21,7 @@ import java.util.Map;
 import cn.smssdk.EventHandler;
 import cn.smssdk.SMSSDK;
 import cn.smssdk.utils.SMSLog;
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.bean.User;
 import cniao5.com.cniao5shop.http.OkHttpHelper;
 import cniao5.com.cniao5shop.http.SpotsCallBack;

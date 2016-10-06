@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -12,6 +12,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.bean.Tab;
 import cniao5.com.cniao5shop.fragment.CartFragment;
 import cniao5.com.cniao5shop.fragment.CategoryFragment;

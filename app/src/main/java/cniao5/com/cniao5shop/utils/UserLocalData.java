@@ -3,7 +3,7 @@ package cniao5.com.cniao5shop.utils;
 import android.content.Context;
 import android.text.TextUtils;
 
-import cniao5.com.cniao5shop.Contants;
+import cniao5.com.cniao5shop.activity.Contants;
 import cniao5.com.cniao5shop.bean.User;
 
 /**

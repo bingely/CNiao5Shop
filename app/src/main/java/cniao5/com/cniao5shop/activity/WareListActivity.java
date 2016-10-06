@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop;
+package cniao5.com.cniao5shop.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,6 +18,7 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 
 import java.util.List;
 
+import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.adapter.BaseAdapter;
 import cniao5.com.cniao5shop.adapter.HWAdatper;
 import cniao5.com.cniao5shop.adapter.decoration.DividerItemDecoration;
